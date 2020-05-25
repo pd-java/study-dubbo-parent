@@ -1,0 +1,8 @@
+
+f
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8ªÂ¥¼¤.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(ÆäŠO8ªÂ¥¼¤.
+^
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(–™Àüþÿÿÿÿ8ªÂ¥¼¤.
+[	java:S125"<This block of commented-out lines of code should be removed.(ûˆ¼úÿÿÿÿ8™…ŸË¤.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿ãÁ­8ªÂ¥¼¤.

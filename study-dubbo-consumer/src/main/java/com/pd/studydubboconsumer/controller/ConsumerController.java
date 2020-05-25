@@ -25,8 +25,8 @@ public class ConsumerController {
         System.out.println("welcome to consumer");
         String resultString = rpcInterface.getResult();
         System.out.println("controller调用接口结果： " + resultString);
-        //return "welcome to consumer" + resultString;
-        return "welcome to consumer";
+        return "welcome to consumer" + resultString;
+        //return "welcome to consumer";
     }
 
 }

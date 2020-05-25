@@ -1,0 +1,8 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(„Â»‘8ğğ´µ¤.
+e	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8çÑ¼¤.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“óì‘8ğğ´µ¤.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËµÜ–8ğğ´µ¤.
+M
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8äœ¼¤.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(æÁîÈüÿÿÿÿ8ğğ´µ¤.
