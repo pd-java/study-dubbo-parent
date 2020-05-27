@@ -19,7 +19,7 @@ import java.util.Random;
 public class ProviderServiceImpl implements APIService, ProviderService {
 
 
-    //@HystrixCommand
+    @HystrixCommand
     @Override
     public String getResult(String resultInfo) {
         System.out.println("provider: 连接上了。。 provider01。。。");

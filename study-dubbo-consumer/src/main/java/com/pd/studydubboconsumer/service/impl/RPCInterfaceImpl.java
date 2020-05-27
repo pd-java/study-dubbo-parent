@@ -23,7 +23,7 @@ public class RPCInterfaceImpl implements RPCInterface {
     @Reference(version = "1.0.0")
     APIService02 apiService02;
 
-    //@HystrixCommand(fallbackMethod = "hystrixTest")
+    @HystrixCommand(fallbackMethod = "hystrixTest")
     @Override
     public String getResult() {
         System.out.println("进入接口，进行rpc请求了");
