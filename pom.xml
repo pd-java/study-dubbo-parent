@@ -43,6 +43,7 @@
     <modules>
         <module>study-dubbo-consumer</module>
         <module>study-dubbo-provider</module>
+        <module>study-dubbo-provider02</module>
         <module>study-dubbo-api</module>
     </modules>
 

@@ -7,8 +7,6 @@ z
 Jstudy-dubbo-api/src/main/java/com/pd/studydubboapi/service/APIService.java,8\7\8730339b349030b2851d1738c4e9dd558a8e77ee
 €
 Pstudy-dubbo-api/src/main/java/com/pd/studydubboapi/StudyDubboApiApplication.java,f\3\f338c75297dc26b7b996a70c59b2036773ecee03
-i
-9study-dubbo-api/src/main/resources/application.properties,e\9\e94894211738b592d80671226e162b57bf27f750
 J
 study-dubbo-api/.gitignore,e\e\eefa3fc577b2d216aa6d77cd7e6bb57b4c9dc92e
 D
@@ -21,8 +19,6 @@ m
 =study-dubbo-consumer/.mvn/wrapper/MavenWrapperDownloader.java,b\7\b7ec5f16be83b4a9d555b6247700bab6b0ab8cfe
 †
 Vstudy-dubbo-consumer/src/main/java/com/pd/studydubboconsumer/service/RPCInterface.java,5\8\58cde7dfe5aac2850f55cdbd9c6eaac4c7ccda78
-n
->study-dubbo-consumer/src/main/resources/application.properties,c\1\c1662d1d84f838a8df29ef9cf2bc9cc2c4fe7ba2
 j
 :study-dubbo-consumer/src/main/resources/dubbo-consumer.xml,e\c\ec2bb44d531c6d28f8e0222d6e84563ba6e2095f
 O
@@ -41,8 +37,6 @@ m
 bstudy-dubbo-provider/src/main/java/com/pd/studydubboprovider/configuration/DubboConfiguration.java,0\0\00e4d5c9fabca68a1e2ef7ae407d880413b884ec
 ‰
 Ystudy-dubbo-provider/src/main/java/com/pd/studydubboprovider/service/ProviderService.java,8\f\8fa11ea78f9e7103dc96c679048a70f07d7d0620
-j
-:study-dubbo-provider/src/main/resources/dubbo-provider.xml,c\1\c1eb8c88529b84c4dcfafc027c63b621cbbf1b8c
 ”
 dstudy-dubbo-provider/src/test/java/com/pd/studydubboprovider/StudyDubboProviderApplicationTests.java,1\4\1477b7942201966a0bdb5d3529a3e59daf59b50c
 O

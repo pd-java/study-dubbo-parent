@@ -9,4 +9,6 @@ package com.pd.studydubboconsumer.service;
 public interface RPCInterface {
 
     public String getResult();
+
+    public String getInfoByProvider02();
 }

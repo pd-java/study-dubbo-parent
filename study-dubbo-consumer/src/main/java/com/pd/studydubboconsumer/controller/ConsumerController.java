@@ -28,4 +28,13 @@ public class ConsumerController {
         return "welcome to consumer" + resultString;
     }
 
+    @RequestMapping("/testRpcToProvider02")
+    @ResponseBody
+    public String testRpcToProvider02(){
+        System.out.println("consumer for provider02");
+        String resultString = rpcInterface.getInfoByProvider02();
+        System.out.println("controller调用接口结果： " + resultString);
+        return "welcome to consumer" + resultString;
+    }
+
 }
