@@ -16,11 +16,11 @@ import org.springframework.stereotype.Service;
 @Service
 public class RPCInterfaceImpl implements RPCInterface {
 
-    @Reference(version = "1.0.0", loadbalance = "random", retries = 3,timeout = 1000)       //负载均衡随机
-    //@Reference(version = "1.0.0", loadbalance = "roundrobin")     //负载均衡轮询
+    //@Reference(version = "1.0.0", loadbalance = "random", retries = 3,timeout = 1000)       //负载均衡随机
+    @Reference(version = "1.0.0", loadbalance = "roundrobin")     //负载均衡轮询
     APIService apiService;
 
-    @Reference(version = "1.0.0")
+    @Reference(version = "1.0.0", loadbalance = "roundrobin")     //负载均衡轮询
     APIService02 apiService02;
 
     @HystrixCommand(fallbackMethod = "hystrixTest")
